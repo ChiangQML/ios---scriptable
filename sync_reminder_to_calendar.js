@@ -93,4 +93,5 @@ for (const reminder of reminders) {
     updateEvent(newEvent, reminder); 
   } 
 } 
+
 Script.complete();
