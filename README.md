@@ -1,3 +1,5 @@
+One day, I had the idea to synchronize my reminders with my calendar. Perhaps you've thought of this too? It might be helpful for you as well!
+
 # English Version:
 ios-scriptable
 IOS script for scriptable
@@ -9,6 +11,7 @@ How to use
 - Download scriptable on ios (https://scriptable.app/)
 - Add a script
 - You can set up your own automation in the shortcut commands
+  
 
 # Chinese Version:
 ios-scriptable
