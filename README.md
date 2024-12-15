@@ -1,4 +1,5 @@
-One day, I had the idea to synchronize my reminders with my calendar. Perhaps you've thought of this too? It might be helpful for you as well!
+iOS Time-Tracking and Synchronization App
+I developed an iOS app that helps users track time spent on tasks by integrating Apple Reminders with the iOS Calendar. The app allows users to add tasks to Reminders, start a timer, and when finished, the app syncs the recorded time with the calendar for easy tracking and reference. This solution helps users better manage their time and stay organized by offering seamless synchronization between tasks and calendar events.
 
 # English Version:
 ios-scriptable
