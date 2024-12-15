@@ -1,4 +1,4 @@
-#iOS Time-Tracking and Synchronization App
+# iOS Time-Tracking and Synchronization App
 I developed an iOS app that helps users track time spent on tasks by integrating Apple Reminders with the iOS Calendar. The app allows users to add tasks to Reminders, start a timer, and when finished, the app syncs the recorded time with the calendar for easy tracking and reference. This solution helps users better manage their time and stay organized by offering seamless synchronization between tasks and calendar events.
 
 # English Version:
